@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, My name is Premveer Tomar, working as a frontend developer at Magic Finserv(a unit of Magic Software).
+
 
 <!--
 **tomarpremveer/tomarpremveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
