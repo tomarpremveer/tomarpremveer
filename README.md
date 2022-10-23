@@ -1,4 +1,4 @@
-### Hi there, My name is Premveer Tomar, working as a frontend developer at Magic Finserv(a unit of Magic Software).
+### Hi there, My name is Premveer Tomar, working as a frontend developer at Logward. ###
 
 
 <!--
