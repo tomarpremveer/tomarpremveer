@@ -1,4 +1,4 @@
-### Hi there, My name is Premveer Tomar, working as a frontend developer at Logward. ###
+### Hi there, My name is Premveer Tomar, working as a frontend developer at Cars24. ###
 
 
 <!--
